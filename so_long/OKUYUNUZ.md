@@ -26,4 +26,4 @@ fonksiyonu ile çıkmalısınız. Free ettiğinizde leak hatanız olmaz.
 kontrol fonksiyonunu, haritanızın çevresinin tamamen 1'lerden(Duvarlardan) oluştuğunun kontrol fonksiyonunu yazmalısınız.
 
 7. Tüm bu adımlar bittikten sonra artık Minilibx fonksiyonlarını öğrenmeye geçebilirsiniz. Minilibx fonksiyonlarının ne iş yaptığını 
-ecole'deki arkadaşlarınızdan öğrenebilirsiniz.
+ecole'deki arkadaşlarınızdan öğrenebilirsiniz...
