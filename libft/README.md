@@ -24,4 +24,4 @@ This is one of the school's most important projects.
 Even if you look at other codes, when they are all finished, you should rewrite all functions and main lines without looking at any code. 
 If you cannot do this, try again. Then again, then again...
 
-Many thanks to @mkaramuk who gave me great support in this project. You are a great person.
+Many thanks to <a href="https://github.com/mkaramuk" target="_blank">Muhammed Karamuk</a> who gave me great support in this project. You are a great person.
