@@ -7,4 +7,4 @@ Ecole 42'de ana eğitimi kazanmış olup, sıfır kodlama bilgisi ile bu eğitim
 Bu halka Ecole 42 Eğitimim boyunca yapmış olduğum tüm projelerin içten dışa (kolaydan-zora) şekillendirilmiş halidir.
 Proje sonlarında yer alan Sınav'lar da halkada gözükmektedir.
 
-[Common Core Part Information](https://images2.imgbox.com/be/64/9ZYTCtGR_o.png)
+![Common Core Part Information](https://images2.imgbox.com/be/64/9ZYTCtGR_o.png)
